@@ -59,4 +59,6 @@ This guide has been provided solely for educational purposes, as well as for inf
 
 
 
-Update: Profile URLs
+
+
+Update:  06/24/2025 04-43 url is now accessible and responsive
