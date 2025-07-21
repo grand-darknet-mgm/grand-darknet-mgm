@@ -71,4 +71,6 @@ This guide has been provided solely for educational purposes, as well as for inf
 
 
 
-Update:  18.07.2025 Fixed broken links in performance benchmarks
+
+
+Update: url is now responsive
