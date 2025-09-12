@@ -85,4 +85,6 @@ This guide has been provided solely for educational purposes, as well as for inf
 
 
 
-Update:  Friday 12 September 2025 url is now available and working
+
+
+Update:  12 September url is now responsive and operational
