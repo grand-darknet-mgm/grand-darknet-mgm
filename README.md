@@ -87,4 +87,6 @@ This guide has been provided solely for educational purposes, as well as for inf
 
 
 
-Update:  12 September url is now responsive and operational
+
+
+Update:  18.09.2025
